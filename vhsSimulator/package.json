@@ -1,0 +1,15 @@
+{
+  "name": "vhs_simulator",
+  "version": "1.0.0",
+  "description": "Simulates a video being watched on the BOD VHS api",
+  "main": "main.js",
+  "dependencies": {
+    "dotenv": "^9.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Lieberman",
+  "license": "ISC"
+}
